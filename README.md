@@ -1,6 +1,6 @@
 # GOlang---API
 
-## A simple library API made using gin, gorm, mysql.
+## A simple library API made using gorm, mysql.
 
 ## Make sure to start a mysql instance and set credentials in config.go
 
